@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="400">
+<defs>
+<pattern id="ringPattern" x="0" y="0" width="172" height="400" patternUnits="userSpaceOnUse">
+<rect width="172" height="400" fill="#FDF6E9"/>
+<g opacity="0.6"><circle cx="86.0" cy="114" r="100" fill="#EAD5A8"/><circle cx="86.0" cy="114" r="87" fill="#FDF6E9"/><circle cx="86.0" cy="114" r="76" fill="#E0C48C"/><circle cx="86.0" cy="114" r="65" fill="#FDF6E9"/><circle cx="86.0" cy="114" r="55" fill="#EBD7AE"/><circle cx="86.0" cy="114" r="46" fill="#FDF6E9"/><circle cx="86.0" cy="114" r="38" fill="#F2E3C0"/><circle cx="86.0" cy="114" r="31" fill="#FDF6E9"/><circle cx="86.0" cy="114" r="25" fill="#F7ECD3"/><circle cx="86.0" cy="114" r="19" fill="#FDF6E9"/><circle cx="86.0" cy="114" r="13" fill="#E0C48C"/></g>
+<g opacity="1.0"><circle cx="0" cy="286" r="100" fill="#EAD5A8"/><circle cx="0" cy="286" r="87" fill="#FDF6E9"/><circle cx="0" cy="286" r="76" fill="#E0C48C"/><circle cx="0" cy="286" r="65" fill="#FDF6E9"/><circle cx="0" cy="286" r="55" fill="#EBD7AE"/><circle cx="0" cy="286" r="46" fill="#FDF6E9"/><circle cx="0" cy="286" r="38" fill="#F2E3C0"/><circle cx="0" cy="286" r="31" fill="#FDF6E9"/><circle cx="0" cy="286" r="25" fill="#F7ECD3"/><circle cx="0" cy="286" r="19" fill="#FDF6E9"/><circle cx="0" cy="286" r="13" fill="#E0C48C"/></g>
+<g opacity="1.0"><circle cx="172" cy="286" r="100" fill="#EAD5A8"/><circle cx="172" cy="286" r="87" fill="#FDF6E9"/><circle cx="172" cy="286" r="76" fill="#E0C48C"/><circle cx="172" cy="286" r="65" fill="#FDF6E9"/><circle cx="172" cy="286" r="55" fill="#EBD7AE"/><circle cx="172" cy="286" r="46" fill="#FDF6E9"/><circle cx="172" cy="286" r="38" fill="#F2E3C0"/><circle cx="172" cy="286" r="31" fill="#FDF6E9"/><circle cx="172" cy="286" r="25" fill="#F7ECD3"/><circle cx="172" cy="286" r="19" fill="#FDF6E9"/><circle cx="172" cy="286" r="13" fill="#E0C48C"/></g>
+</pattern>
+</defs>
+<rect width="100%" height="100%" fill="url(#ringPattern)"/>
+</svg>
